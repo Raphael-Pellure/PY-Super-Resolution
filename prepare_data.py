@@ -17,11 +17,11 @@ from rasterio.windows import Window
 from rasterio.enums import Resampling
 
 current_path = Path(
-    "/home/onyxia/work/SuperResolution"
+    "/home/onyxia/work/PY-Super-Resolution"
 )
 
 output_path = Path(
-    "/home/onyxia/work/SuperResolution/Patchs"
+    "/home/onyxia/work/PY-Super-Resolution/Patchs"
 )
 
 SIZES = [(64, 64), (32, 32)]
